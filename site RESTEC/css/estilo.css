@@ -5,11 +5,29 @@ header{
     text-align: center;
     background-color: #006D4B;
 }
+h1{
+    font-size: 50px;
+    font-family:  Arimo;
+    color: #006D4B;
+}
+h2{
+    font-size: 40px;
+    font-family:  Arimo;
+    color: #006D4B;
+}
 p{
+    color: #21252A;
+    font-size: 20px;
     font-family:  Arimo;
 }
 table{
     width: 100%;
+}
+strong{
+    color: #006D4B;
+}
+a{
+    color: #21252A;
 }
 
 
@@ -35,4 +53,11 @@ table{
     width: 20%;
     border-top-right-radius: 200px;
     border-bottom-right-radius: 200px;
+}
+.apresentacao{
+    margin: 3%;
+}
+.foto_do_Carlos{
+    float: left;
+    width: 30%;
 }
