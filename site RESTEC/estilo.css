@@ -9,23 +9,30 @@ p{
     font-family:  Arimo;
 }
 table{
-    border-style: solid;
     width: 100%;
 }
-tr,td{
-    border-style: solid;
-}
+
 
 
 .topo_botoes{
-    padding: auto;
+    padding: 10px;
     color: #C8DEC7;
     background-color: #006D4B;
     border-bottom-style: solid;
     border-color: #C8DEC7;
     font-family: Montserrat Classic;
     font-size: 15px;
+    margin: 3%;
 }
 .logo{
-    width: 300px;
+    width: 75%;
+    float: left;
+    padding: 5%;
+}
+.box_logo{
+    background-color: white;
+    height: 250px;
+    width: 20%;
+    border-top-right-radius: 200px;
+    border-bottom-right-radius: 200px;
 }
