@@ -1,5 +1,5 @@
 body{
-    margin: 5px;
+    margin: 0px;
 }
 header{
     text-align: center;
@@ -28,6 +28,7 @@ strong{
 }
 a{
     color: #21252A;
+    font-size: 20px;
 }
 
 
