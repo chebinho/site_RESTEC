@@ -1,0 +1,22 @@
+#Modelo{
+    float: left;
+    color: #006D4B;
+    border: 5px solid;
+    border-color: #006D4B;
+    background-color: white;
+    border-radius: 50px;
+    font-size: 25px;
+    padding-left: 18%;
+    padding-right: 18%;
+}
+#Enviar{
+    float: right;
+    color: #006D4B;
+    border: 5px solid;
+    border-color: #006D4B;
+    background-color: white;
+    border-radius: 50px;
+    font-size: 25px;
+    padding-left: 18%;
+    padding-right: 18%;
+}
