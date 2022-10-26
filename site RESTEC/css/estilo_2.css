@@ -18,11 +18,13 @@ body{
     width: 90%;
 }
 .texto_claro{
-    margin-left: 20%;
+    padding-top: 2%;
+    margin-left: 28%;
     color: #006D4B;
 }
 .texto_escuro{
-    margin-left: 9%;
+    padding-top: 2%;
+    margin-left: 17%;
     color: #C8DEC7;
 }
 
