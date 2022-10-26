@@ -1,4 +1,4 @@
-#Modelo{
+.Modelo{
     float: left;
     color: #006D4B;
     border: 5px solid;
@@ -9,7 +9,7 @@
     padding-left: 18%;
     padding-right: 18%;
 }
-#Enviar{
+.Enviar{
     float: right;
     color: #006D4B;
     border: 5px solid;
