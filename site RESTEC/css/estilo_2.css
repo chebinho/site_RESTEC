@@ -1,0 +1,28 @@
+body{
+    background-image: url("/site RESTEC/imagens/Fundo Lista de Metas.png");
+}
+
+.card_claro{
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    background-color:  #C8DEC7;
+    height: 100px;
+    width: 90%;
+}
+.card_escuro{
+    margin-left: 10%;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    background-color: #006D4B;
+    height: 100px;
+    width: 90%;
+}
+.texto_claro{
+    margin-left: 20%;
+    color: #006D4B;
+}
+.texto_escuro{
+    margin-left: 9%;
+    color: #C8DEC7;
+}
+
