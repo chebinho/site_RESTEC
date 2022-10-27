@@ -1,12 +1,17 @@
 li{
     padding: 5px;
 }
+label{
+    color: #006D4B;
+    padding-top: 50px;
+    position: relative;
+    top: 10%;
+}
 .botao{
     width: 10%;
     border-radius: 20px;
-    padding: 1px 1px;
     background-color: #006D4B;
-    margin: 4%;
+    margin: 3% 4% 1% 5%;
     box-shadow: -5px 5px 5px rgb(151, 150, 150);
 }
 .icone{
