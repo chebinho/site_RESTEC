@@ -20,3 +20,10 @@
     padding-left: 18%;
     padding-right: 18%;
 }
+.titulo{
+    background-image: url("../imagens/Desafio/Desafio\ Entrega.png");
+    height: 475px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 101%;
+}
