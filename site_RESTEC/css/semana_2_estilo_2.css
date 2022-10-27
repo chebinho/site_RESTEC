@@ -1,0 +1,158 @@
+body{
+    margin: 0%;
+}
+
+header{
+    text-align: center;
+    background-color: #006D4B;
+}
+
+table{
+    width: 100%;
+}
+
+strong{
+    color: #006D4B;
+}
+
+a{
+    color: #21252A;
+}
+
+
+.topo_botoes{
+    padding: 10px;
+    color: #C8DEC7;
+    background-color: #006D4B;
+    border-bottom-style: solid;
+    border-color: #C8DEC7;
+    font-family: 'Montserrat Classic';
+    font-size: 15px;
+    margin: 3%;
+}
+.logo{
+    width: 75%;
+    float: left;
+    padding: 5%;
+}
+.box_logo{
+    background-color: white;
+    height: 250px;
+    width: 20%;
+    border-top-right-radius: 200px;
+    border-bottom-right-radius: 200px;
+}
+
+.tema{
+    font-size: 33px;
+    font-family: 'Arimo';
+    font-weight: bold;
+}
+
+#semana{
+    font-size: 30px;
+    font-family: 'Arimo';
+    font-weight: lighter;
+    margin: auto;
+}
+
+#banner{
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom:7%;
+}
+
+#titulo1{
+    font-size: 40px;
+    font-family: 'Montserrat Classic';
+    font-weight: bold;
+    margin-top: 8%;
+    text-align: center;
+}
+
+.titulo2{
+    font-size: 35px;
+    font-family: 'Montserrat Classic';
+    font-weight: bold;
+    margin-top: 2%;
+    margin-left: 5%;
+}
+
+.explicacao p{
+    margin-top: 5%;
+    color: #21252A;
+    font-size: 20px;
+    font-family: 'Arimo';
+    text-align: justify;
+    margin-left: 18%;
+    margin-right: 18%;
+    text-align: center;
+}
+
+.destaca{
+    color: #006D4B;
+    font-size: 22px;
+}
+
+.itens{
+    margin-top: 5%;
+    color: #006D4B;
+    font-size: 20px;
+    font-family:  'Arimo';
+    margin-left: 18%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    width: 650px;
+    line-height: 1.8;
+}
+
+#text_principal p{
+    margin-top: 2%;
+    color: #21252A;
+    font-size: 20px;
+    font-family: 'Arimo';
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 18%;
+}
+
+.opcoes{
+    margin: auto;
+    width: 950px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+/*.frases{
+    margin: auto;
+    width: 950px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}*/
+
+.botoes{
+   background-color: #006D4B;
+   border: solid #006D4B;
+   width: 130px;
+   height: 125px;
+   border-radius: 10%;
+}
+
+.botoes_img{
+    margin-left: 0%;
+    width: 115px;
+    height: 120px;
+}
+
+label{
+    color: #006D4B;
+}
+
+#rodape{
+    width: 100%;
+    height: 150px;
+}
