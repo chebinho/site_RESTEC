@@ -1,0 +1,41 @@
+li{
+    padding-bottom: 11%;  
+    color: #006D4B;  
+    font-size: 30px;
+}
+
+.titulo{
+    background-image: url("../imagens/Semana_IV/Temática\ Semana\ IV.png");
+    height: 475px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.dor{
+    width: 100%;
+    position: absolute;
+    height: 750px;
+}
+.lista{
+    margin-top: 3%;
+    margin-left: 25%;
+    float: left;
+}
+.livros{
+    position: relative;
+    width: 20%;
+    top: 19%;
+    left: 10%;
+}
+.calculadora{
+    position: relative;
+    width: 19%;
+    top: -1%;
+    left: 3%;
+}
+.pino{
+    position: relative;
+    width: 20%;
+    top: 46%;
+    right: 9%;
+}
