@@ -1,7 +1,6 @@
 li{
     padding: 5px;
 }
-
 .botao{
     width: 10%;
     border-radius: 20px;
@@ -12,4 +11,14 @@ li{
 }
 .icone{
     width: 100%;
+}
+.lista{
+    color: #006D4B;
+}
+.titulo{
+    background-image: url("../imagens/Semana_III/Momento\ Semana\ III.png");
+    height: 475px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
