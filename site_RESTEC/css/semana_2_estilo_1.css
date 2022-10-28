@@ -78,15 +78,14 @@ a{
     margin-left: 5%;
 }
 
-.explicacao p{
+.explicacao {
     margin-top: 5%;
     color: #21252A;
     font-size: 20px;
     font-family: 'Arimo';
     text-align: justify;
-    margin-left: 18%;
-    margin-right: 18%;
-    text-align: center;
+    margin-left: 19%;
+    margin-right: 19%;
 }
 
 .destaca{
@@ -104,4 +103,19 @@ a{
     margin-bottom: 5%;
     width: 650px;
     line-height: 1.8;
+}
+
+#img_foot1{
+    width: 220px;
+    height: 220px;
+}
+
+#img_foot2{
+    width: 220px;
+    height: 220px;
+}
+
+#img_foot3{
+    width: 220px;
+    height: 220px;
 }
