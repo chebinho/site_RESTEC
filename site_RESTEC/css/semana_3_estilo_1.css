@@ -3,25 +3,29 @@
     height: 475px;
     width: 100%;
     background-repeat: no-repeat;
-    background-size: 101%;
+    background-size: 100%;
 }
 .imagens{
     position: absolute;
-    width: 100%;
+    width: 80%;
     height: 500px;
+    margin-left: 20%;
 }
 .not{
     position: relative;
-    width: 20%;
-    top: 9%;
+    width: 22%;
+    top: 11%;
+    left: 5%;
 }
 .livro{
     position: relative;
-    width: 20%;
+    width: 22%;
     top: 50%;
-    right: 8%;
+    right: 6%;
 }
 .tablet{
     position: relative;
-    width: 20%;
+    width: 22%;
+    top: 5%;
+    left: 1%;
 }
