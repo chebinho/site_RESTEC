@@ -1,4 +1,61 @@
 #momento_img{
+    background-image: url("../imagens/Semana\ II/Momento Semana II.png");
+    background-size: 100%;
+    margin-right: 0%;
     width: 100%;
     height: 500px;
+    background-repeat: no-repeat;
+}
+
+.btn_p3{
+    width: 300px;
+    height: 45px;
+    margin-top: 3%;
+    margin-left: 20%;
+    background-color: #006D4B;
+    border: solid #006D4B;
+    border-radius: 20px;
+    font-size: 20px;
+    color: #c8dec8;
+    align-items: center;
+}
+
+.titulo_caixa{
+    margin-top: 5%;
+    color: #006D4B;
+    margin-left: 20%;
+    font-size: 40px;
+}
+
+.caixa_text{
+    height: 180px;
+    margin-right: 5%;
+    padding-top: 1%;
+    padding-left: 20%;
+    padding-right: 15%;
+    padding-bottom: 2%;
+    background-color: #c8dec8;
+    margin-top: 5%;
+    border-radius: 10px;
+}
+
+.caixa_text p{
+    color: #006D4B;
+    font-size: 20px;
+    font-family: 'Arimo';
+    text-align: justify;
+}
+
+.btn_p3_forms{
+    width: 270px;
+    height: 45px;
+    margin-top: 3%;
+    margin-left: 20%;
+    background-color: #006D4B;
+    border: solid #006D4B;
+    border-radius: 20px;
+    font-size: 20px;
+    color: #c8dec8;
+    align-items: center;
+    margin-bottom: 10%;
 }
