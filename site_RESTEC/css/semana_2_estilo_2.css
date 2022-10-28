@@ -1,5 +1,5 @@
 .imagen_topo{
-    background-image: url("../imagens/Semana\ II/Materiais Semana II.png");
+    background-image: url("../imagens/Semana_II/Materiais\ Semana\ II.png");
     background-size: 100%;
     margin-right: 0%;
     width: 100%;
@@ -32,14 +32,12 @@ li{
 }
 
 .botao{
-    padding-top: 10px;
     width: 10%;
+    height: 125px;
     border-radius: 20px;
-    padding: 1px 1px;
     background-color: #006D4B;
-    margin: 4%;
+    margin: 3% 4% 1% 5%;
     box-shadow: -5px 5px 5px rgb(151, 150, 150);
-    border: solid #006D4B;
 }
 .icone{
     width: 100%;
@@ -47,6 +45,9 @@ li{
 
 label{
     color: #006D4B;
+    padding-top: 50px;
+    position: relative;
+    top: 10%;
 }
 
 .conteudo{
@@ -61,16 +62,13 @@ label{
 
 .icone_conteudo img{
     width: 100%;
-    height: 100%;
 }
 
 .icone_conteudo2{
     float: left;
     width: 100px;
-    height: 100px;
 }
 
 .icone_conteudo2 img{
     width: 100%;
-    height: 100%;
 }
