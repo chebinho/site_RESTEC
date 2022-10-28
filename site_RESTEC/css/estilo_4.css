@@ -1,0 +1,30 @@
+.titulo{
+    background-image: url("../imagens/Desafio/Desafio\ Lançamento.png");
+    height: 475px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 101%;
+}
+.lanpada{
+    position: relative;
+    width: 20%;
+    top: 10%;
+    left: 5%;
+}
+.pc{
+    position: relative;
+    width: 20%;
+    top: 50%;
+    left: -5%;
+}
+.lapis{
+    position: relative;
+    width: 20%;
+    top: 15%;
+    left: 30%;
+}
+.imagens{
+    position: absolute;
+    width: 100%;
+    height: 500px;
+}

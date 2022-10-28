@@ -1,5 +1,6 @@
 li{
-    padding: 5px;
+    padding: 10px;
+    color: #006D4B;
 }
 label{
     color: #006D4B;
@@ -7,6 +8,10 @@ label{
     position: relative;
     top: 10%;
 }
+h2{
+    color: #21252A;
+}
+
 .botao{
     width: 10%;
     height: 125px;
@@ -18,13 +23,21 @@ label{
 .icone{
     width: 100%;
 }
+.icone_menor{
+    width: 10%;
+    float: left;
+}
 .lista{
     color: #006D4B;
 }
 .titulo{
-    background-image: url("../imagens/Semana_III/Momento\ Semana\ III.png");
+    background-image: url("../imagens/Semana_IV/Materiais\ Semana\ IV.png");
     height: 475px;
     width: 100%;
     background-repeat: no-repeat;
     background-size: 100%;
+}
+.descricao{
+    color: #006D4B;
+    margin-left: 10%;
 }

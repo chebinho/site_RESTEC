@@ -12,14 +12,14 @@ link{
     border-bottom-right-radius: 50px;
 }
 .titulo{
-    background-image: url("../imagens/Semana_III/Momento\ Semana\ III.png");
+    background-image: url("../imagens/Semana_IV/Momento\ Semana\ IV.png");
     height: 475px;
     width: 100%;
     background-repeat: no-repeat;
-    background-size: 101%;
+    background-size: 100%;
 }
 .arquivo{
-    margin-top: 15%;
+    margin-top: 10%;
     background-color: #006D4B;
     border: #006D4B 1px solid;
     border-radius: 50px;
