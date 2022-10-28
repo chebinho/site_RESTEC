@@ -14,7 +14,6 @@
     margin-top: 1%;
     margin-left: 5%;
 }
-
 .text_principal p{
     margin-top: 2%;
     color: #21252A;
@@ -23,11 +22,13 @@
     text-align: justify;
     margin-left: 10%;
     margin-right: 18%;
-    margin-top: 10%;
 }
 
 li{
     padding: 5px;
+    color: #006D4B;
+    font-size: 20px;
+    font-family:  'Arimo';
 }
 
 .botao{
@@ -49,12 +50,27 @@ label{
 }
 
 .conteudo{
-    display: inline;
+    margin-left: 2%;
 }
 
 .icone_conteudo{
-    margin-top: 10%;
-    display: flex;
+    float: left;
     width: 100px;
     height: 100px;
+}
+
+.icone_conteudo img{
+    width: 100%;
+    height: 100%;
+}
+
+.icone_conteudo2{
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+
+.icone_conteudo2 img{
+    width: 100%;
+    height: 100%;
 }
