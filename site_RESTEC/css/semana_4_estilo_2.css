@@ -3,7 +3,7 @@ li{
     color: #006D4B;
 }
 label{
-    color: #006D4B;
+    color: white;
     padding-top: 50px;
     position: relative;
     top: 10%;
@@ -14,7 +14,6 @@ h2{
 
 .botao{
     width: 10%;
-    height: 125px;
     border-radius: 20px;
     background-color: #006D4B;
     margin: 3% 4% 1% 5%;
@@ -36,6 +35,7 @@ h2{
     width: 100%;
     background-repeat: no-repeat;
     background-size: 100%;
+    margin-bottom: 90%;
 }
 .descricao{
     color: #006D4B;
